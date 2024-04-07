@@ -1,0 +1,7 @@
+1:- If we make 'or' opeartions between two numbers then the result will never be the leaser than the bigger one; 
+
+example {
+    1 | 2 = 2 (min result);
+    2 | 3 = 3 (min result);
+    3 | 4 = 4 (min result);
+}
